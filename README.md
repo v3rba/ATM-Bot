@@ -3,7 +3,7 @@
 A Ruby program that simulates an (ATM)Automated Teller Machine session.
 
 ```
-ruby start.rb
+ruby atm.rb
 ```  
 
 Ruby version: 2.3.3p222
