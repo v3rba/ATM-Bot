@@ -1,2 +1,3 @@
 # ATM-Bot
-ATM machine prototype
+ATM machine prototype.
+Run it by using atm.rb
